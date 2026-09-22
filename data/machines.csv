@@ -1,0 +1,5 @@
+machine_id,machine_type,processing_rate_kg_hr,power_gas_kw,power_diesel_kw,setup_time_hr,compatible_products
+M1,Dyeing,100,45,50,2.0,"P1,P2,P3"
+M2,Printing,80,35,40,1.5,"P1,P2"
+M3,Finishing,120,30,35,1.0,"P1,P2,P3"
+M4,Packing,150,15,18,0.5,"P1,P2,P3"
